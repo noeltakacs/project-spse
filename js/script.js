@@ -1,2 +1,3 @@
 console.log("Hello World!");
-document.body.innerText = "Hello World!";
+
+console.log("New Line");
